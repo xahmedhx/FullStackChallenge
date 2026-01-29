@@ -8,7 +8,7 @@ Base.metadata.create_all(bind=engine)
 
 db = SessionLocal()
 
-sensor_types = ["temperature", "humidity", "pressure", "vibration"]
+sensor_types = ["Thermal", "Vibration"]
 locations = ["hvac_1", "hvac_2", "lighting_control_1", "lighting_control_2", "security_camera_1"]
 
 for i in range(20):
