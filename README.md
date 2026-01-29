@@ -5,7 +5,7 @@ This project is a full-stack application consisting of a Flutter frontend (compa
 ## Tech Stack
 
 - **Frontend:** Flutter, Dart
-- **Backend:** Python, FastAPI, SQLAlchemy, SQLite, Pydantic (for data validation)
+- **Backend:** Python, FastAPI, SQLAlchemy, Pydantic (for data validation)
 
 ## Features
 
